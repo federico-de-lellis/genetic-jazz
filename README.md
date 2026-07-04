@@ -265,10 +265,6 @@ Melodies are encoded as fixed-grid sequences of MIDI pitches:
 - **music21**: Score creation, MIDI export, notation rendering
 - **Flask**: Web application framework
 
-## License
-
-This project is part of coursework for the Sound and Music Computing Master's program.
-
 ## Acknowledgments
 
 - Jazz chord progressions sourced from iRealPro
